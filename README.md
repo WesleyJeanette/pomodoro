@@ -19,4 +19,3 @@ No additional packages needed. Tkinter comes pre-installed with most Python dist
 ```bash
    python pomodoro.py
 ```
-   ```
