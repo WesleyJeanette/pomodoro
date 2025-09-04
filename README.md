@@ -15,8 +15,7 @@ A minimalistic Pomodoro timer application built in Python.
 No additional packages needed. Tkinter comes pre-installed with most Python distributions.
 
 ## Usage
-1. Save this file as `README.md` in your project directory
-2. Run the application:
+1. Run the application:
 ```bash
    python pomodoro.py
 ```
